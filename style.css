@@ -1,0 +1,86 @@
+h1{
+    color:springgreen;
+    text-align:center;
+    font-family:cursive;
+    text-shadow:5px 3px 4px deeppink;
+}
+p{
+    color:gold;
+    font-family:cursive;
+    text-shadow: 7px 8px 9px gold;
+}
+body{
+    background:url("https://i.ibb.co/s9K8sYt/SAVE-20220703-160808.jpg");
+    font-family:cursive;
+    
+}
+h2{
+    color:chartreuse;
+    font-family:cursive;
+    font-weight:bolder;
+    text-shadow: 7px 8px 9px chartreuse;
+}
+h4{
+    color:orange;
+    text-shadow: 7px 8px 9px orange;
+}
+h3{
+    color:orange;
+    text-shadow: 7px 8px 9px orange;
+}
+ol{
+    color:yellow;
+    text-shadow: 7px 8px 9px yellow;
+    }
+a{
+    color:powderblue;
+    text-shadow: 7px 8px 9px powderblue;
+}
+b{
+    
+    font-family:"Times New Romans",cursive;
+    
+}
+.j{
+    color:springgreen;
+    text-shadow: 7px 8px 9px springgreen;
+}
+.A1{
+    color:powderblue;
+    text-shadow: 7px 8px 9px powderblue;
+}
+.ko{
+    color:yellow;
+    text-shadow: 7px 8px 9px yellow;
+}
+.o{
+    color:yellow;
+    text-shadow: 7px 8px 9px yellow;
+    
+}
+#hj{
+    color:orange;
+    text-shadow: 7px 8px 9px orange;
+}
+#kl{
+    color:orange;
+    background-color:black;
+    border-color:powderblue;
+    text-shadow: 7px 8px 9px orange;
+}
+#jkl{
+    color:springgreen;
+    text-shadow: 7px 8px 9px springgreen;
+    
+}
+.to{
+    color:orange;
+    text-shadow: 7px 8px 9px orange;
+}
+#abc{
+    color:gold;
+    text-shadow: 7px 8px 9px gold;
+}
+
+
+
